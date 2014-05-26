@@ -1,0 +1,23 @@
+footer {
+    width: 100%;
+    display: inline;
+    color: rgba(0, 0, 0, 0.51);
+    font-size: 10pt;
+}
+
+footer .copyrights {
+    float: left;
+}
+
+footer .framework {
+    float: right;
+}
+
+footer a:link, footer a:visited, footer a:active {
+    color: rgba(0, 0, 0, 0.51);
+    text-decoration:none;
+}
+footer a:hover {
+    color: rgba(0, 0, 0, 0.80);
+    text-decoration:none;
+}

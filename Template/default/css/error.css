@@ -1,0 +1,27 @@
+.container #error {
+    width: 900px;
+}
+
+.container #error .left {
+    float: left;
+    width: 50%;
+}
+
+.container #error .right {
+    float: right;
+    width: 50%;
+}
+
+.container #error p {
+    font-size: 35px;
+    margin: 0px auto 0px auto;
+}
+
+.container #error .title {
+    font-size: 100px;
+    padding-top: 50px;
+}
+
+.container #error .error_number {
+    font-size: 250px;
+}

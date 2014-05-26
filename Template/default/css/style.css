@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+@import "menu.css";
+@import "footer.css";
+
+/**
+  * Color combo : #D74B4B #DCDDD8 #475F77 #354B5E
+  */
+
+#minibar {
+    width: 100%;
+    height: 4px;
+    background-color: #D74B4B;
+}
+
+.container {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container .content{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+
+    background-color: rgba(0, 0, 0, 0.01);
+    box-shadow: 2px 2px 3px rgba(136, 136, 136, 0.24);
+    border-radius: 5px;
+    color: #000000;
+
+    padding: 20px;
+}
+
+.shadow {
+    /*-moz-box-shadow:    3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc; */
+    -webkit-box-shadow: 2px 2px 5px 1px rgba(204, 204, 204, 0.40);
+}

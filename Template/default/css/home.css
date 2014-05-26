@@ -1,0 +1,14 @@
+.container .content h1 {
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25pt;
+    color: #191919;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.21);
+}
+
+.container .content h1 small{
+    font-size: 12pt;
+    margin-left: 5px;
+    color: rgba(25, 25, 25, 0.86);
+    font-weight: normal;
+}
