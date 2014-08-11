@@ -6,7 +6,7 @@ Read More at: [mariogarrido.me/making-one-new-framework](http://www.mariogarrido
 ![PrintScreen](http://codegrid.org/files/1393246360.png)
 
 ##Install##
-1. `git clone git@github.com:skinie18/GridFramework.git`
+1. Clone the repository
 2. Check the config.ini file to upgrade your setting's
 
 Youcan find more about me at: [CodeGrid.org](https://www.codegrid.org)
